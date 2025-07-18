@@ -33,9 +33,33 @@
 
 ```bash
 git clone https://github.com/yourusername/WDMSTool.git
-cd WDMSTool
+cd WDMSTool 
+```
 
 ### 2. Make the Script Executable
 
 ```bash
-chmod +x main.sh
+chmod +x setup.sh
+./setup.sh
+```
+
+✅ The setup.sh script automatically checks and installs these dependencies if not already available. 
+
+### 3. Run the Tool
+
+```bash
+wdmstool
+```
+
+You will see a list of options like this 👇 
+```
+Choose an operation to perform:
+1. Interactive CMD viewer
+2. Generate VOSA ASCII for MS (no-UV)
+3. MS data processing pipeline
+4. Generate VOSA ASCII for WD
+5. WD–MS data processing pipeline
+6. Exit
+```
+
+
