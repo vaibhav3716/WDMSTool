@@ -34,3 +34,8 @@
 ```bash
 git clone https://github.com/yourusername/WDMSTool.git
 cd WDMSTool
+
+### 2. Make the Script Executable
+
+```bash
+chmod +x main.sh
