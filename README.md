@@ -1,4 +1,4 @@
-# WDMSTool
+# WDMSTool (Under Development)
 **WDMSTool** is a modular and user-friendly command-line toolkit for the processing and characterisation of **White Dwarf–Main Sequence (WD–MS)** binary systems using multi-wavelength photometric data. It is designed to support pipeline development for candidate identification, VOSA ASCII generation, and SED model comparison with theoretical spectra.
 
 ---
