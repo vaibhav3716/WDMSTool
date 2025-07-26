@@ -6,7 +6,7 @@
 ## 📦 Features
 
 - 📊 **Interactive CMD Viewer**  
-  View Gaia CMD interactively from CSV catalogs.
+  View Gaia & GALEX CMD interactively from CSV catalogs.
 
 - ⚙️ **MS Data Processing Pipeline**  
   - Cleans `.bfit.phot.dat` and `bestfitp.dat` files.  
